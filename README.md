@@ -1,5 +1,5 @@
 # circlator
-Small, distroless-when-possible container for `circlator`.
+Small compatibility-focused container for `circlator`.
 
 ## how to use
 ```bash
